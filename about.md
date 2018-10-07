@@ -2,14 +2,20 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Agriculture and environment data scientist
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Software developer with Python scientific packages experience (Numpy, Pandas, Matplotlib, Scikit-learn).
+Experience on Elasticsearch based systems.
+MongoDB based data analysis using Aggregation Framework.
+Experience on decision support systems to sustainable agriculture and forestry.
+Implementation of automatic weather stations based systems.
+Consultant and trainer on pesticide application systems.
 
-### Contact me
+### Questions
 
-[email@domain.com](mailto:email@domain.com)
+[hugo.manito@gmail.com](mailto:hugo.manito@gmail.com)
