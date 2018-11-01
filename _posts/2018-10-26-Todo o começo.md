@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-### Os vinhos do primeiro ano da "Grandes Escolhas"
-
 Ao longo do seu primeiro ano de existência, nas edições que vão de Junho de 2017 a Maio de 2018, a ["Vinho Grandes Escolhas"](https://grandesescolhas.com/) provou e avaliou centenas de vinhos de todo o país (e alguns do estrangeiro). Sobre cada um deles estão disponíveis algumas variáveis que nos permitiram construir um dataset já previamente compilado.
 
 Os dados estão guardados num ficheiro Excel e queremos que estejam em memória para que possamos usar o Python e trabalhar sobre eles. É aqui que entra uma biblioteca que nos vai acompanhar por muito tempo nesta análise, o **Pandas** - https://pandas.pydata.org/. Comecemos por importá-la usando uma convenção:
