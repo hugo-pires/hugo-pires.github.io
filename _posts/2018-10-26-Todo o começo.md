@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Os vinhos do primeiro ano da "Grandes Escolhas"
 
