@@ -62,7 +62,7 @@ dtype: object
 ```
 Para já podemos fazer uma distinção simples entre:
 * variáveis **qualitativas** (ou nominais, "categoricals", em inglês) que são representadas com um tipo **object**, e sobre as quais é possível apenas estabelecer comprações e
-* variáveis **quantitativas** que são representadas com um tipo **float** ou **int**, e sobre as quais é possível fazer um conjunto mais alargados de operações matemáticas.
+* variáveis **quantitativas** que são representadas com um tipo **float** ou **int**, e sobre as quais é possível fazer um conjunto mais alargado de operações matemáticas.
 
 No que diz respeito às variáveis numéricas, é fácil conseguir um "resumo" dos seus conteúdos:
 
