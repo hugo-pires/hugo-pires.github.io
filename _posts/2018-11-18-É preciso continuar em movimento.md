@@ -7,7 +7,7 @@ Vamos continuar a olhar os dados das edições que vão de Junho de 2017 a Maio 
 import pandas as pd
 vinhos = pd.read_excel('vinhos.xlsx')
 ```
-Tal como já perceberam, uma *dataframe* é formada por **colunas** que correspondem a cada uma das variáveis disponíveis e **linhas** que são registos distintos, neste cas, cada vinho.
+Tal como já perceberam, uma *dataframe* é formada por **colunas** que correspondem a cada uma das variáveis disponíveis e **linhas** que são registos distintos, neste caso, cada vinho.
 
 Por exmplo, se quiserem aceder aos valores da **coluna** *tipo* basta utilizar a seguinte notação:
 
