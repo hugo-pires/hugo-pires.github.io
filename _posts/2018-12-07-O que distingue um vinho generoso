@@ -17,7 +17,7 @@ Podemos começar pelo **boxplot**, cuja caixa representa a mediana e os dois qua
 vinhos.boxplot(['grau'])
 ```
 
-![png](_blog_quarto_files/_blog_quarto_4_1.png)
+![png]({{ site.baseurl }}/_blog_quarto_files/_blog_quarto_4_1.png)
 
 
 Ao que parece há um vinho com **0 graus**. Trata-se, com certeza, de um erro, que poderemos corrigir facilmente:
@@ -69,4 +69,4 @@ vinhos_perto_de_20['regiao'].value_counts()
     Palmela      1
     Name: regiao, dtype: int64
 
-Estes são **Vinhos do Porto**, na sua maioria, como seria de esperar.
+Estes são **Vinhos do Porto**, na sua maioria, com seria de esperar.
