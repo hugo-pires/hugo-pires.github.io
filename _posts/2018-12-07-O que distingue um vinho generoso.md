@@ -33,7 +33,7 @@ vinhos = vinhos[vinhos['grau'] != 0]
 vinhos.boxplot(['grau'])
 ```
 
-![png](blog_quarto_files/blog_quarto_7_0.png)
+![png](../images/blog_quarto_files/blog_quarto_7_0.png)
 
 Podemos também eliminar graduações acima de **25 graus** para poder fazer outro tipo de análise:
 
@@ -45,7 +45,7 @@ vinhos = vinhos[vinhos['grau'] < 25]
 vinhos.hist(['grau'])
 ```
 
-![png](blog_quarto_files/blog_quarto_10_0.png)
+![png](../images/blog_quarto_files/blog_quarto_10_0.png)
 
 Um histograma, ao qual podemos alterar o número de divisões...
 
@@ -53,7 +53,7 @@ Um histograma, ao qual podemos alterar o número de divisões...
 vinhos.hist(['grau'], bins=25)
 ```
 
-![png](blog_quarto_files/blog_quarto_12_0.png)
+![png](../images/blog_quarto_files/blog_quarto_12_0.png)
 
 ... para encontrar uma distribuição ligeiramente bimodal, com os vinhos de mesa perto dos **14 graus** e os generosos perto dos **20 graus**.
 
