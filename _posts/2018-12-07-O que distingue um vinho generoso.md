@@ -17,7 +17,8 @@ Podemos começar pelo **boxplot**, cuja caixa representa a mediana e os dois qua
 vinhos.boxplot(['grau'])
 ```
 
-![png](blog_quarto_files/blog_quarto_4_1.png)
+
+![png](https://github.com/hugo-pires/hugo-pires.github.io/blob/master/_posts/blog_quarto_files/blog_quarto_4_1.png)
 
 
 Ao que parece há um vinho com **0 graus**. Trata-se, com certeza, de um erro, que poderemos corrigir facilmente:
