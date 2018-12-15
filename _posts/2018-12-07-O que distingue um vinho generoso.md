@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Vamos continuar a olhar os dados das edições que vão de Junho de 2017 a Maio de 2018, da ["Vinho Grandes Escolhas"](https://grandesescolhas.com/). Continuámos no [post anterior]({% post_url 2018-12-03-Dão, Verdes e Python %}) a utilizar o **Pandas** e hoje vamos olhar um pouco para o seu potencial de visualização de dados.
