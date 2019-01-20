@@ -15,9 +15,7 @@ from scipy import stats
 
 vinhos = pd.read_excel('output_analise/vinhos.xlsx')
 ```
-*Será que vale a pensar comprar um vinho mais caro?*
-
-Esta é a questão que vamos tentar responder com base nos nosso dados. Iremos considerar vinhos com **preço até 100 euros**...
+*Será que vale a pena comprar um vinho mais caro?* Esta é a questão que vamos tentar responder com base nos nosso dados. Iremos considerar vinhos com **preço até 100 euros**...
 
 ```python
 vinhos = vinhos[vinhos['preco'] <= 100]
